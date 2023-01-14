@@ -1,4 +1,4 @@
-class `49_GroupAnagrams` {
+class LT_49_GroupAnagrams {
     companion object{
         private fun groupAnagrams(strs: Array<String>): List<List<String>> {
             val strMap: MutableMap<String, MutableList<String>> = mutableMapOf()
