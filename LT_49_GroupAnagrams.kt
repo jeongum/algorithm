@@ -1,6 +1,8 @@
+import LT_49_GroupAnagrams.Companion.groupAnagrams
+
 class LT_49_GroupAnagrams {
     companion object{
-        private fun groupAnagrams(strs: Array<String>): List<List<String>> {
+        fun groupAnagrams(strs: Array<String>): List<List<String>> {
             val strMap: MutableMap<String, MutableList<String>> = mutableMapOf()
             val result: MutableList<List<String>> = mutableListOf()
 
@@ -17,9 +19,10 @@ class LT_49_GroupAnagrams {
 
             return result
         }
-        @JvmStatic
-        fun main(args: Array<String>) {
-            println(groupAnagrams(arrayOf("","")))
-        }
     }
+
+}
+
+fun main(args: Array<String>) {
+    println(groupAnagrams(arrayOf("","")))
 }
