@@ -1,4 +1,6 @@
-import LT_1091_ShortestPathInBinaryMatrix.Companion.shortestPathBinaryMatrix
+package org.algorithm.kotlin
+
+import org.algorithm.kotlin.LT_1091_ShortestPathInBinaryMatrix.Companion.shortestPathBinaryMatrix
 import java.util.ArrayDeque
 
 /**

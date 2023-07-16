@@ -1,4 +1,6 @@
-import LT_49_GroupAnagrams.Companion.groupAnagrams
+package org.algorithm.kotlin
+
+import org.algorithm.kotlin.LT_49_GroupAnagrams.Companion.groupAnagrams
 
 class LT_49_GroupAnagrams {
     companion object{
