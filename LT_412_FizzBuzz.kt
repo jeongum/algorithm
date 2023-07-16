@@ -1,6 +1,4 @@
-package org.algorithm.kotlin
-
-import org.algorithm.kotlin.LT_412_FizzBuzz.Companion.fizzBuzz
+import LT_412_FizzBuzz.Companion.fizzBuzz
 
 /**
  * https://leetcode.com/problems/fizz-buzz/submissions/969598047/

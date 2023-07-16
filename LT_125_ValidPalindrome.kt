@@ -1,6 +1,4 @@
-package org.algorithm.kotlin
-
-import org.algorithm.kotlin.LT_125_ValidPalindrome.Companion.isPalindromeTwoPointer
+import LT_125_ValidPalindrome.Companion.isPalindromeTwoPointer
 
 /**
  * https://leetcode.com/problems/valid-palindrome/submissions/980046711/
