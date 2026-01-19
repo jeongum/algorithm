@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# 로그 파일
+*.log
+
+# 환경 파일
+.env
+
+# 컴파일된 파일
+*.class
+
